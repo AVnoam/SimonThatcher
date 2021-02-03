@@ -1,0 +1,52 @@
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\bin\Debug\SimonThatcher.exe.config
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\bin\Debug\SimonThatcher.exe
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\bin\Debug\SimonThatcher.pdb
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.csprojAssemblyReference.cache
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.SimonMiranMeir.resources
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.Properties.Resources.resources
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.csproj.GenerateResource.cache
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.csproj.CoreCompileInputs.cache
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.exe
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.pdb
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.StartSimon.resources
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\SimonThatcher\bin\Debug\SimonThatcher.exe.config
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\SimonThatcher\bin\Debug\SimonThatcher.exe
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\SimonThatcher\bin\Debug\SimonThatcher.pdb
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.csprojAssemblyReference.cache
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.SimonMiranMeir.resources
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.Properties.Resources.resources
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.StartSimon.resources
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.csproj.GenerateResource.cache
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.csproj.CoreCompileInputs.cache
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.exe
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.pdb
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\bin\Debug\SimonThatcher.exe.config
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\bin\Debug\SimonThatcher.exe
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\bin\Debug\SimonThatcher.pdb
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.csprojAssemblyReference.cache
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.SimonMiranMeir.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.Properties.Resources.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.StartSimon.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.csproj.GenerateResource.cache
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.csproj.CoreCompileInputs.cache
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.exe
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.pdb
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\bin\Debug\ColorSlider.dll
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\bin\Debug\ColorSlider.pdb
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeir\SimonThatcher\obj\Debug\SimonThatcher.csproj.CopyComplete
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\bin\Debug\SimonThatcher.exe.config
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\bin\Debug\SimonThatcher.exe
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\bin\Debug\SimonThatcher.pdb
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\bin\Debug\ColorSlider.dll
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\bin\Debug\ColorSlider.pdb
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.csprojAssemblyReference.cache
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.Properties.Resources.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.StartSimon.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.csproj.GenerateResource.cache
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.csproj.CoreCompileInputs.cache
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.csproj.CopyComplete
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.exe
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.pdb
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.Mode2.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.Mode4.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.Mode3.resources

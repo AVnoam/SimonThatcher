@@ -1,0 +1,15 @@
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\bin\Debug\SimonThatcher.exe.config
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\bin\Debug\SimonThatcher.exe
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\bin\Debug\SimonThatcher.pdb
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\bin\Debug\ColorSlider.dll
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\bin\Debug\ColorSlider.pdb
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.Mode2.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.Mode3.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.Mode4.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.Properties.Resources.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.StartSimon.resources
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher_Miran_Meir.csproj.GenerateResource.cache
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher_Miran_Meir.csproj.CoreCompileInputs.cache
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher_Miran_Meir.csproj.CopyComplete
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.exe
+C:\Users\avino\Desktop\SimonThatcher-SimonMiranMeirדדד\SimonThatcher\obj\Debug\SimonThatcher.pdb

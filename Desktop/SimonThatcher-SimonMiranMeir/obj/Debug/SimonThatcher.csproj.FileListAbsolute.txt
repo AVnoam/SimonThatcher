@@ -1,0 +1,20 @@
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\bin\Debug\SimonThatcher.exe.config
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\bin\Debug\SimonThatcher.exe
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\bin\Debug\SimonThatcher.pdb
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.csprojAssemblyReference.cache
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.SimonMiranMeir.resources
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.Properties.Resources.resources
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.csproj.GenerateResource.cache
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.csproj.CoreCompileInputs.cache
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.exe
+C:\Users\palla\Documents\Coding\shisharp\SimonThatcher\SimonThatcher\obj\Debug\SimonThatcher.pdb
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\bin\Debug\SimonThatcher.exe.config
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\bin\Debug\SimonThatcher.exe
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\bin\Debug\SimonThatcher.pdb
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\obj\Debug\SimonThatcher.csprojAssemblyReference.cache
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\obj\Debug\SimonThatcher.SimonMiranMeir.resources
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\obj\Debug\SimonThatcher.Properties.Resources.resources
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\obj\Debug\SimonThatcher.csproj.GenerateResource.cache
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\obj\Debug\SimonThatcher.csproj.CoreCompileInputs.cache
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\obj\Debug\SimonThatcher.exe
+C:\Users\avino\OneDrive\שולחן העבודה\SimonThatcher-SimonMiranMeir\obj\Debug\SimonThatcher.pdb
